@@ -1,4 +1,4 @@
-# vibesfocus
+# VibesFocus
 **Do you ever feel lost or distracted by algorithms?**
 
 **VibesFocus: Focus on what Drives you in your Life and with your Family**
