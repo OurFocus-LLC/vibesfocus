@@ -11,5 +11,6 @@ VibesFocus is a productivity suite built to help everyone do their best, in the 
 
 **Built for the Whole Family:** Set short-term goals with a simple checklist, plan bigger ambitions with AI-assisted long-term goals, and give kids their own goals to track. Reminders and synced calendars keep everyone on the same page, and AI meal planning takes one more thing off your plate.
 
-**Get More Done:** AI flash cards to make studying stick. AI email summaries cut through the inbox. Convert any PDF into an audiobook to help you learn faster, integrated with Speechify.
-More Than Productivity: VibesFocus builds in a prayer interface to support your spirituality and mental health to enrich and round out your life to find balance and remove anxiety.
+**Get More Done:** **AI Flash Cards** to make studying stick. **AI Email Summaries** cut through the inbox. **Convert any PDF into an Audiobook** to help you learn faster, integrated with Speechify.
+
+**More Than Productivity:** VibesFocus builds in a **Prayer Interface** to support your spirituality and mental health to enrich and round out your life to find balance and remove anxiety.
