@@ -13,4 +13,4 @@ VibesFocus is a productivity suite built to help everyone do their best, in the 
 
 **Get More Done:** **AI Flash Cards** to make studying stick. **AI Email Summaries** cut through the inbox. **Convert any PDF into an Audiobook** to help you learn faster, integrated with Speechify.
 
-**More Than Productivity:** VibesFocus builds in a **Prayer Interface** to support your spirituality and mental health to enrich and round out your life to find balance and remove anxiety.
+**More Than Productivity:** VibesFocus builds in a **Prayer Interface and Life Tools like: Set Boundries, Responsibility Chart, Syncronize Husband and Wife Calendars, Call your Friends more Regularly with Call Friendships** to support your spirituality and mental health to enrich and round out your life to find balance and remove anxiety.
