@@ -1,5 +1,5 @@
 # VibesFocus
-**Do you ever feel lost or distracted by algorithms?**
+**Do you ever feel lost or distracted by social media algorithms?**
 
 **VibesFocus: Focus on what Drives you in your Life and with your Family**
 
